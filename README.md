@@ -1,5 +1,5 @@
 # smart_pointers
 Simple implementation of smart pointers
-* shared_ptr - with type erasure
-* unique_ptr - with type erasure
-* weak_ptr
+* shared_ptr
+* unique_ptr
+* weak_ptr (in shared_ptr.h)
